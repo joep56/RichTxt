@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RichTxt.iml" filepath="$PROJECT_DIR$/RichTxt.iml" />
-      <module fileurl="file://C:\Users\Jay\Documents\Richtxt\RichTxt.iml" filepath="C:\Users\Jay\Documents\Richtxt\RichTxt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Richtxt.iml" filepath="$PROJECT_DIR$/Richtxt.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\Joe\Projects\RichTxt\app\app.iml" filepath="C:\Users\Joe\Projects\RichTxt\app\app.iml" />
     </modules>
